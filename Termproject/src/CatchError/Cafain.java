@@ -2,7 +2,7 @@ package CatchError;
 
 import java.util.*;
 
-public class cafain {
+public class Cafain {
 	private int life;
 	private int buffer;
 	private int buffer_limit;
@@ -38,3 +38,4 @@ public class cafain {
 		}
 	}
 }
+
